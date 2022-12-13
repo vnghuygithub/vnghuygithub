@@ -76,8 +76,4 @@
   </a>
 </div>
 
-<br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<br>
 
