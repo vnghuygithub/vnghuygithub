@@ -1,9 +1,5 @@
-<!-- Trungquandev -->
-
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -63,14 +59,12 @@
 <div align="center">
   
    <a href="https://facebook.com/vuonghuy010202" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vuonghuy-facebook" />
   </a>
   <a href="https://www.instagram.com/vuong_huy/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vuonghuy-instagram" />
   </a>
-  <a href="mailto:huysshunss@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:vuonghuyit@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vuonghuy-email" />
   </a>
 </div>
-
-
